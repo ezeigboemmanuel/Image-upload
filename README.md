@@ -14,11 +14,11 @@ Ensure you have the following set up:
 2. **MongoDB Database**:
 
    - Create a MongoDB database and get the connection string (e.g., `MONGO_URI`).
-   - You can use [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for a free cloud database.
+   - You can use [MongoDB Atlas](https://www.mongodb.com) for a free cloud database.
 
 3. **Node.js and npm/yarn**:
 
-   - Install [Node.js](https://nodejs.org/) (v14 or above).
+   - Install [Node.js](https://nodejs.org/).
 
 ---
 
@@ -27,8 +27,8 @@ Ensure you have the following set up:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/nextjs-cloudinary-upload.git
-   cd nextjs-cloudinary-upload
+   git clone https://github.com/ezeigboemmanuel/Image-upload.git
+   cd my-app
    ```
 
 2. Install dependencies:
@@ -118,7 +118,7 @@ Alternatively, deploy the app to a cloud provider like [Vercel](https://vercel.c
 
 If you prefer a video walkthrough of how to build this application, watch the tutorial here:
 
-[Video Tutorial Link](#) (Replace with the actual link)
+[Video Tutorial Link](https://youtu.be/ScR8ShNG9CU) (Replace with the actual link)
 
 ---
 
